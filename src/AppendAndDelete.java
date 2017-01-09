@@ -38,10 +38,8 @@ public class AppendAndDelete {
                 StringBuilder t1 = new StringBuilder(t);
                 String s2 = s1.substring(index, s1.length());
                 String t2 = t1.substring(index, t1.length());
-                //System.out.println(s2);
-                //System.out.println(t2);
                 int newIndex = checkMe(s2, t2, k);
-                //System.out.println(newIndex);
+               
                 if(newIndex == 0 && k>= (s2.length()+t2.length()) && s2.length()!=0){
                     System.out.println("Yes");
                 }else if(s2.length() == 0 && k>= (s2.length()+t2.length()) && t2.length()%2 == 0){

@@ -1,5 +1,6 @@
 /**
  * Created by ADDY on 02/01/17.
+ * src:https://www.hackerrank.com/challenges/append-and-delete
  */
 import java.util.Scanner;
 public class AppendAndDelete {

@@ -1,2 +1,4 @@
 # hackerrank-solutions
-My Hackerrank solutions
+
+|Sr.No.|Problem|Solution|Tags|
+

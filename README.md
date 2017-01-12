@@ -7,7 +7,7 @@
 |3 |[Camel Case](https://www.hackerrank.com/challenges/camelcase)|[Solution](src/CamelCase.java)|Algorithms|Strings|Easy|
 |4 |[Circular Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) |[Solution](src/CircularRotation.java) |Algorithms |Arrays |Easy |
 |5 |[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) |[Solution](src/FibonacciModified.java) |Algorithms |Dynamic Programming |Medium |
-|6 |[]() |[Solution](src/) |Algorithms | | |
+|6 |[Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) |[Solution](src/Full_Counting_Sort_best.java) |Algorithms |Sorting |Meduim |
 |7 |[]() |[Solution](src/) |Algorithms | | |
 |8 |[]() |[Solution](src/) |Algorithms | | |
 |9 |[]() |[Solution](src/) |Algorithms | | |

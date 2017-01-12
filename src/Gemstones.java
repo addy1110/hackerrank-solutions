@@ -1,5 +1,6 @@
 /**
  * Created by ADDY on 06/01/17.
+ * src: https://www.hackerrank.com/challenges/gem-stones
  */
 import java.util.*;
 public class Gemstones {
@@ -21,6 +22,7 @@ public class Gemstones {
             Set<Character> S2 = getSet(second);
             S1.retainAll(S2);
         }
+        in.close();
 
         System.out.println(S1.size());
     }

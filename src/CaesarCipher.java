@@ -1,5 +1,6 @@
 /**
  * Created by ADDY on 06/01/17.
+ * src: https://www.hackerrank.com/challenges/caesar-cipher-1
  */
 import java.util.Scanner;
 public class CaesarCipher {
@@ -9,6 +10,7 @@ public class CaesarCipher {
         in.nextLine();
         StringBuilder arr = new StringBuilder(in.nextLine());
         int k = in.nextInt()%26;
+        in.close();
         for(int i=0;i<n;i++){
             int index = (int)arr.charAt(i)+k;
             if((int)arr.charAt(i)>=65 && (int)arr.charAt(i)<=90){

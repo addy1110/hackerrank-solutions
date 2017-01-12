@@ -1,15 +1,12 @@
-
+/**
+ * Created by ADDY on 01/01/17.
+ * src: https://www.hackerrank.com/challenges/circular-array-rotation
+ */
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.util.*;
-/**
- * Created by ADDY on 01/01/17.
- */
-public class CircularRotation {
-
-
-
-    public static void main(String[] args) {
+class CircularRotation {
+    static void main(String[] args) {
 
         NumberFormat formatter = new DecimalFormat("#0.00000");
         long startTime = System.currentTimeMillis();
@@ -30,6 +27,7 @@ public class CircularRotation {
             else
                 System.out.println(circularArray[idx-(k%n)+circularArray.length]);
         }
+        in.close();
 
         long endTime   = System.currentTimeMillis();long totalTime = endTime - startTime;
 

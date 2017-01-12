@@ -1,5 +1,6 @@
 /**
  * Created by ADDY on 06/01/17.
+ * src:
  */
 import java.util.Scanner;
 public class CamelCase {

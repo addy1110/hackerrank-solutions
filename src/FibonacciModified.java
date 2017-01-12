@@ -1,5 +1,6 @@
 /**
  * Created by ADDY on 02/01/17.
+ * src: https://www.hackerrank.com/challenges/fibonacci-modified
  */
 import java.math.BigInteger;
 import java.util.Scanner;
@@ -9,6 +10,7 @@ public class FibonacciModified {
         BigInteger t1 = BigInteger.valueOf(in.nextInt());
         BigInteger t2 = BigInteger.valueOf(in.nextInt());
         int n = in.nextInt();
+        in.close();
         BigInteger tn = BigInteger.ZERO;
 
         for(int i=0;i<n-2;i++){

@@ -1,5 +1,6 @@
 /**
  * Created by ADDY on 06/01/17.
+ * src: https://www.hackerrank.com/challenges/funny-string
  */
 import java.util.Scanner;
 public class FunnyString {
@@ -23,5 +24,6 @@ public class FunnyString {
             if(isFunny) System.out.println("Funny");
             else System.out.println("Not Funny");
         }
+        in.close();
     }
 }

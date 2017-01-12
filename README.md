@@ -8,7 +8,7 @@
 |4 |[Circular Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) |[Solution](src/CircularRotation.java) |Algorithms |Arrays |Easy |
 |5 |[Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) |[Solution](src/FibonacciModified.java) |Algorithms |Dynamic Programming |Medium |
 |6 |[Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) |[Solution](src/Full_Counting_Sort_best.java) |Algorithms |Sorting |Meduim |
-|7 |[]() |[Solution](src/) |Algorithms | | |
+|7 |[Funny String](https://www.hackerrank.com/challenges/funny-string) |[Solution](src/FunnyString.java) |Algorithms |Strings |Easy |
 |8 |[]() |[Solution](src/) |Algorithms | | |
 |9 |[]() |[Solution](src/) |Algorithms | | |
 |9 |[]() |[Solution](src/) |Algorithms | | |

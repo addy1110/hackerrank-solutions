@@ -30,6 +30,7 @@ public class SaveThePrisoner {
             }
 
         }
+        in.close();
         long endTime   = System.currentTimeMillis();long totalTime = endTime - startTime;
 
         System.out.println("Execution time is " + formatter.format((totalTime) / 1000d) + " seconds");

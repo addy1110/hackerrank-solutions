@@ -10,6 +10,7 @@ public class Kangaroo {
         int v1 = in.nextInt();
         int x2 = in.nextInt();
         int v2 = in.nextInt();
+        in.close();
 
         if(v2>v1 || v2 == v1) System.out.println("NO");
         else if((x2-x1)%(v2-v1) == 0) System.out.println("YES");
